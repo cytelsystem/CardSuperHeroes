@@ -1,7 +1,9 @@
-https://cytelsystem.github.io/Pizza-front/
+https://cytelsystem.github.io/CardSuperHeroes/
 
-# Pizza&Front
+# Card Super Heroes
 
-## lenguaje HTML
+## lenguaje HTML y Css
 
 ### Clase de Front-End
+
+### Diseño adaptativo responsive
